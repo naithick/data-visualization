@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Data (Keep raw data if small, otherwise ignore)
+# data/raw/
+# data/processed/
+
+# Models (Ignore large model files)
+# models/*.joblib
+# models/*.pkl
+
+# OS
+.DS_Store
