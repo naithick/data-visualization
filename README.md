@@ -10,7 +10,6 @@ This repository contains a comprehensive analysis of marketing campaign performa
 │   ├── raw             # Original dataset
 │   └── processed       # Cleaned and enriched data
 ├── models              # Serialized ML models and encoders
-├── notebooks           # Jupyter notebooks for analysis (Optional)
 ├── results
 │   ├── figures         # Generated plots and visualizations
 │   └── reports         # Analysis reports
